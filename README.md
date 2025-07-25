@@ -8,7 +8,7 @@ The project involves analyzing healthcare patient data to uncover key trends and
 - Tools: Excel, Power BI, Tableau
 
 # EXCEl DASHBOARD  Screenshots
-  ![Dashboard Screenshot](Excel Dasboard.png)
+  ([Excel Dasboard.png](https://github.com/vaishdevle/Data-Analyst--Dashboard/blob/main/Excel%20Dasboard.png))
 
 # POWER BI DASHBOARD  Screenshots
  
